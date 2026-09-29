@@ -7,13 +7,13 @@
    ========================================================= */
 
 :root {
-  --brand:   #6b3410;   /* headings, header bar, links */
-  --accent:  #a8571b;  /* buttons and highlights       */
-  --bg:      #fdfaf6;      /* page background              */
-  --surface: #f7efe5; /* cards and panels             */
-  --ink:     #22201d;     /* body text                    */
-  --muted:   #6b655e;     /* secondary text               */
-  --line:    #ded7cc;     /* hairlines and borders        */
+  --brand:   #0d1f3c;   /* headings, header bar, links */
+  --accent:  #1a3a6b;  /* buttons and highlights       */
+  --bg:      #f5f7fa;      /* page background              */
+  --surface: #e8edf5; /* cards and panels             */
+  --ink:     #1a1c20;     /* body text                    */
+  --muted:   #5a6070;     /* secondary text               */
+  --line:    #c8d0de;     /* hairlines and borders        */
 }
 
 * { box-sizing: border-box; }
